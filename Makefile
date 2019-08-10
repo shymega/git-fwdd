@@ -8,7 +8,7 @@ GO := go
 all: deps build test
 
 build:
-	${GO} build -v ./...
+	${GO} build -v ./cmd/...
 
 deps:
 	go mod download
