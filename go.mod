@@ -1,6 +1,4 @@
-module git.shymega.org.uk/shymega/git-fwdd
-
-go 1.12
+module github.com/shymega/git-fwdd
 
 require (
 	github.com/go-stack/stack v1.8.0 // indirect
