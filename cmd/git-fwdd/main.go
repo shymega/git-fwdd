@@ -1,4 +1,4 @@
-package main // import "git.shymega.org.uk/shymega/git-fwdd"
+package main // import "github.com/shymega/git-fwdd"
 
 import (
 	log "github.com/inconshreveable/log15"
@@ -10,10 +10,5 @@ func checkError(e error) {
 	}
 }
 
-func init() {
-	log.Info("Initalising!")
-}
-
 func main() {
-	log.Info("Loaded.")
 }
