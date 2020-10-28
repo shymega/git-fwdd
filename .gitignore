@@ -24,3 +24,9 @@ vendor/
 /Godeps/
 
 # End of https://www.toptal.com/developers/gitignore/api/go
+
+
+# Added by cargo
+
+/target
+Cargo.lock
