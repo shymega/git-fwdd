@@ -1,4 +1,4 @@
-# git-fwdd
+# git-store-forward
 
 A 'store-and-forward' daemon for Git repositories.
 
